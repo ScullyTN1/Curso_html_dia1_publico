@@ -1,0 +1,12 @@
+p {
+  color:blue
+}
+h1 {
+  color:red
+}
+.destacado{
+  font-family:"verdana";
+  font-style:italic;
+  font-size:30px;
+  color:#FF00FF
+}
